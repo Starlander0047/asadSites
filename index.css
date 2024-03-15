@@ -1,0 +1,16 @@
+*{
+    cursor: none;
+}
+/* Cuberto mouseFollower */
+.mf-cursor.-inverse:before {
+    background: #fff;
+  }
+.container table tbody td a
+{
+    color: white;
+    text-decoration: none;
+}
+.container table tbody td a:hover
+{
+    color: rgb(115, 112, 112);
+}
